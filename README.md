@@ -5,6 +5,6 @@
 
 <div align="center"><b><sub><code>v1.0</code></sub></b></div>
  
-**<div align="center" style="padding-top: 1.25rem">[Docker](https://swingmusic.vercel.app/downloads) • <a href="https://swingmusic.vercel.app/support-us.html" target="_blank">Support Development</a> • [Docs](https://swingmusic.vercel.app/guide/introduction.html) • [Screenshots](https://swingmusic.vercel.app)
+**<div align="center" style="padding-top: 1.25rem">[Docker](https://swingmusic.vercel.app/downloads) • <a href="https://swingmusic.vercel.app/support-us.html" target="_blank">Support</a> • [Docs](https://swingmusic.vercel.app/guide/introduction.html) • [Screenshots](https://swingmusic.vercel.app)
 
 ##

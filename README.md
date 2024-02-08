@@ -1,5 +1,5 @@
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <img class="lo" src='.github/images/logo-fill.light.svg' style="height: 4rem">
+  <img class="lo" src='https://github.com/Opensource-Prism-Labs/Prism-Live/blob/main/bigbox%20logo%20(2).png' style="height: 4rem">
 </div>
 <div align="center" style="font-size: 2rem"><b>Prism Live</b></div>
 
